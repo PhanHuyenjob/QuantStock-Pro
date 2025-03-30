@@ -1,6 +1,10 @@
 # QuantStock-Pro
 
-## I. Description
+## I.Data Source
+Data is provided by [Ths. Ngo Phu Thanh - University of Economics and Law, VNU-HCM] and is for academic use only.
+Please do not share or use outside the scope of the project without permission.## I. Lisense
+
+## II. Description
 The Stock Analysis Dashboard is built using Streamlit to analyze stock data. It provides price and volume charts, technical indicators such as SMA, EMA, MACD, RSI, and sector analysis for selected dates.
 ## Technologies Used
     Streamlit – Web application framework
@@ -17,13 +21,13 @@ The Stock Analysis Dashboard is built using Streamlit to analyze stock data. It 
     
     Google Generative AI (Gemini) – AI-powered insights (optional)
 
-## II. Introduction
+## III. Introduction
 This project consists of:
 
 Data Processing (merge_price_volume.py): Preprocessing and merging financial data.
 Running the Application (Visualize_Stock_update.py): Executing the main program.
 
-## III. Overview
+## IV. Overview
 QuantStock Pro is a stock market analytics web application built with Streamlit. It empowers investors by providing:
 
 Customizable stock tracking: Select time frames, stock symbols, and technical indicators.
@@ -32,7 +36,7 @@ Institutional money flow analysis: Track investment flows from institutions, pro
 Goal
 The project aims to enhance investor decision-making through intuitive data visualization and AI-powered market insights.
 
-## IV. Key Features
+## V. Key Features
 ## 1. Live Stock Prices & Technical Indicators
 Real-time stock price tracking.
 
