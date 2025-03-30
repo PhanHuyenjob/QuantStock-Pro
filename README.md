@@ -40,7 +40,8 @@ Flexible selection of technical indicators for chart overlays.
 
 Support for trend analysis using widely used technical tools.
 
-![image](https://github.com/user-attachments/assets/345e6910-8a33-434e-943e-ef0f9a2b0e4e
+![price charts and indicators](https://github.com/user-attachments/assets/79dc4f9e-3e92-4f7d-9f36-ab6995c9e073)
+
 
 ## 2. AI-Powered Technical Analysis
 AI-driven insights based on technical signals.
@@ -48,9 +49,9 @@ AI-driven insights based on technical signals.
 Trend evaluation to assess potential price movements.
 
 Trading strategy suggestions leveraging market momentum and money flow.
+![Comments from AI](https://github.com/user-attachments/assets/457be278-0727-4090-9143-89eea6b9ce4e)
 
-![image](https://github.com/user-attachments/assets/465286a4-0f19-455c-8053-3d7be1818480
-![image](https://github.com/user-attachments/assets/634096ff-37d0-4349-bf40-c1ad6a754dc7)
+![Comments from AI](https://github.com/user-attachments/assets/634096ff-37d0-4349-bf40-c1ad6a754dc7)
 
 
 ## 3. Institutional Money Flow Analysis
@@ -58,4 +59,4 @@ Trading strategy suggestions leveraging market momentum and money flow.
 Aggregated sector-wise transaction data to identify capital flows.
 
 Visualized with line charts, illustrating net order execution trends across industries.
-![image](https://github.com/user-attachments/assets/3233e5bf-e885-4b3b-9bac-2dda861af624)
+![Net match of investors](https://github.com/user-attachments/assets/3233e5bf-e885-4b3b-9bac-2dda861af624)
