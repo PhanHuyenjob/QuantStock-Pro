@@ -1,8 +1,8 @@
 # QuantStock-Pro
 
-## I.Data Source
+## I. Data Source
 Data is provided by [Ths. Ngo Phu Thanh - University of Economics and Law, VNU-HCM] and is for academic use only.
-Please do not share or use outside the scope of the project without permission.## I. Lisense
+Please do not share or use outside the scope of the project without permission.
 
 ## II. Description
 The Stock Analysis Dashboard is built using Streamlit to analyze stock data. It provides price and volume charts, technical indicators such as SMA, EMA, MACD, RSI, and sector analysis for selected dates.
