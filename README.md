@@ -49,6 +49,8 @@ AI-driven insights based on technical signals.
 Trend evaluation to assess potential price movements.
 
 Trading strategy suggestions leveraging market momentum and money flow.
+
+
 ![Comments from AI](https://github.com/user-attachments/assets/457be278-0727-4090-9143-89eea6b9ce4e)
 
 ![Comments from AI](https://github.com/user-attachments/assets/634096ff-37d0-4349-bf40-c1ad6a754dc7)
